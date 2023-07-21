@@ -73,8 +73,10 @@
     cursor: pointer;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 375px) {
   .container {
+    overflow: hidden;
+    height: auto;
   }
   .union-card {
     display: flex;
