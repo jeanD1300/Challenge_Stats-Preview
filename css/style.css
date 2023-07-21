@@ -73,7 +73,7 @@
     cursor: pointer;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 600px) {
   .container {
     overflow: hidden;
     height: auto;
@@ -94,7 +94,7 @@
     border-radius: 10px 10px 0px 0px;
   }
   .card-right::before {
-    width: 400px;
+    width: 380px;
     height: 280px;
     margin-top: -149px;
     border-radius: 10px 10px 0px 0px;
