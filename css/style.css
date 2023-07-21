@@ -79,6 +79,7 @@
     height: auto;
   }
   .union-card {
+    margin-top: 50px;
     display: flex;
     width: 400px;
     height: 780px;
@@ -120,5 +121,11 @@
     flex-direction: column;
     justify-content: space-between;
     margin-top: 20px;
+  }
+  .stats h1{
+  }
+  .stats p{
+    margin: 0px 0px 0 15px;
+    padding: 0 0 15px 0;
   }
 }
